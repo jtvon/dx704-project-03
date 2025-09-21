@@ -1,0 +1,4 @@
+Acknowledgements:
+I would like to acknowledge the resources from Blackboard and the professors example code that helped guid my understanding and acted as a template for further code imporevements.
+I would also like to acknowledge the discussions from Piazza as they were helpful in diagnosing errors from the autograder.
+Finally I'd like to acknowledge ChatGPT as it was helpful in debugging some of my code syntax and assisting with code improvements and explanations.
